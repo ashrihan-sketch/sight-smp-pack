@@ -1,10 +1,10 @@
 {
-  "version": "1.0.56",
-  "versionCode": 1000056,
-  "url": "https://raw.githubusercontent.com/ashrihan-sketch/sight-smp-pack/main/sight-1.0.56.jar",
-  "filename": "sight-1.0.56.jar",
-  "sha256": "ed51b4610801ca018b670e53c924e5b319c49ced7153a28f9ab21a8795ab573d",
-  "fileSize": 10791475,
+  "version": "1.0.57",
+  "versionCode": 1000057,
+  "url": "https://raw.githubusercontent.com/ashrihan-sketch/sight-smp-pack/main/sight-1.0.57.jar",
+  "filename": "sight-1.0.57.jar",
+  "sha256": "11cb5ba57496d42f543e7dd4be1682dd3f999f7041de3751298c4ea6f4d51373",
+  "fileSize": 11232893,
   "fabricApiUrl": "https://cdn.modrinth.com/data/P7dR8mSH/versions/i5tSkVBH/fabric-api-0.141.3%2B1.21.11.jar",
   "fabricApiFilename": "fabric-api-0.141.3+1.21.11.jar"
 }
